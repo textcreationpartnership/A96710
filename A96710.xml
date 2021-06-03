@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Nothing without God. Be it knowne unto all men that the professor hereof Salvator winter Moretto, a Neapolitane borne, having travelled through divers countries, aswell in Europe as in Asia and Africa, hath by the grace of God, learned divers  secrets and arts to serve mankind therewith: ...</title>
+            <author>Winter, Salvator.</author>
+         </titleStmt>
+         <extent>Approx. 6KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96710</idno><idno type="EEBO-CITATION">50805866</idno>
+  <idno type="VID">164543</idno>
+  <idno type="EEBO-PROQUEST">2240875736</idno>
+  
+            <idno type="STC">Wing W3087aA</idno>
+            <idno type="STC">Thomason E526_19</idno>
+            <idno type="STC">ESTC R188787</idno>
+            <idno type="OCLC">50805866</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A96710)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 164543)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 82:E526[19])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Nothing without God. Be it knowne unto all men that the professor hereof Salvator winter Moretto, a Neapolitane borne, having travelled through divers countries, aswell in Europe as in Asia and Africa, hath by the grace of God, learned divers  secrets and arts to serve mankind therewith: ...</title>
+                  <author>Winter, Salvator.</author>
+               </titleStmt>
+               <extent>1 sheet ([1] p.) : ill. (woodcut)  </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>ca. 1647]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Title from caption and opening words of text.</note>
+                  <note>Date and place of publication suggested by Wing.</note>
+                  <note>One of two items identified by Wing as W3087aA. The other item identified as Wing W3087aA (ESTC R181108) has title: "Nothing without God. It is known unto all men . . . Salvator Winter."</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Medicine --  Early works to 1800.</term>
+               <term type="topical_term">Medicine, Popular --  Early works to 1800.</term>
+               <term type="topical_term">Physicians --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-04 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles </label>Sampled and proofread </change>
+         <change>
+            <date>2014-10 </date>
+            <label>Simon Charles</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="notice">
+            <pb facs="tcp:164543:1"/>
+            <head>Nothing without God.</head>
+            <p>Be it knowne unto all men that the Professor hereof <hi>Salvator Winter Moretto, a Neapolitane</hi> borne, having travelled throu<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> divers Countries, aswell in <hi>Europe</hi> as in <hi>Asia</hi> and <hi>Africa,</hi> hath by the grace of God, learned divers secrets and arts to se<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> mankind therewith: He therefore presenteth his service unto all and every one, especially unto those, who are troubled w<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> these diseases following, and he promiseth by the assistance of God to cure them, <hi>viz.</hi>
+            </p>
+            <figure>
+               <figDesc>factotum block of a faced sun</figDesc>
+               <p>His only secret.</p>
+               <p>
+                  <list>
+                     <item>Salvator</item>
+                     <item>Winter.</item>
+                     <item>Moretto.</item>
+                     <item>Neapolitane.</item>
+                  </list>
+               </p>
+            </figure>
+            <p>The Professour hereof is an Excellent Master in drawing of Teeth, and putting in other artificiall ones, that none shall <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>erne them from the right Teeth; he taketh out the teeth suddainly although they be but little stumps, broken by others, <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> the very roots of Teeth, and he putteth in others, although there were four in a row together; and this he doth al without pa<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>▪ He can preserve and strengthten the Teeth, that following his Councell, none shall need to have any drawne, but t<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> shall alwaies remaine sound and whole in the mouth. He can also take away the paine thereof, that it shall not retu<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> againe.</p>
+            <p>He hath also good remedies for all diseases and paines of the Teeth, and gummes, for the rotten hollow Teeth, and tho<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> they were perished to the very roote thereof, for the loose ones, yellow, black, slimy and foule teeth, for a stinking bre<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> and scurvy, all this he can cure speedily, he can make the teeth so cleane and white that you shall admire it.</p>
+            <p>He hath a most rare balsome named, <hi>solo terrenno,</hi> or spirit of vegetables, which is very Excellent for many sorts of pain<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> mans body, it taketh them away suddainly in halfe an houres space, anointing the affected place therewith, altho<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> the party had been troubled with it six or seaven yeares, provided there be no bone or sinew broken; or if it be the Pox. <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> also any body that hath paine in the head or teeth comming by a cold or whatsover, if he doth but smell on this balsome <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> a little anoint his nostrills with it, it will take away the paine immediatly, it maketh a good memory and comforteth <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> weake braines: preventeth the plague, by smelling and anointing the nostrills with it.</p>
+            <p>He hath also an other balsome, most excellent for all manner of new wounds or cuts, he cureth them in twenty f<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> houres, provided there be no bone, mus<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e or sinnew broken or offended.</p>
+            <p>An other balsome Excellent for all sorts of burnings or scaldings, be it with fire, gunne-powder, oyle, hot water or pi<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>▪ let them apply immediately a plaister of this precious ointment, according to my direction, it will take out the fire in h<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> an houre, and heale it in a short space, otherwise it being not speedily applyed, it will require a long time for the healin<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> it; and there shall not remaine any scarre.</p>
+            <p>He can also in a short time, by Gods assistance, cure the French Pox, Sciatica, Dropsie, Iaundis, Consumption, scu<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>▪ sore breasts, Coughs or colds, new or old, and many diseases incident unto mans body.</p>
+            <p>He can also cure many secret diseases which are incident unto Women, not fitting to be publikely named.</p>
+            <p>He also cureth Ruptures, be they of the first, second or third pannickle, and this in a short time.</p>
+            <p>He also remedieth such Ruptures as proceed from any ventosities, which are swollen, he thrusteth them up an appl<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> such things that they shall remaine in their right place, and not fall downe againe.</p>
+            <p>If so be any one is troubled with a Rupture, called <hi>Hernia Carnosa</hi> as hard as a stone, that by no other means may be <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>sed then by cutting, he either can apply such remedies that it may not goe any further, or with a singular dexterity cut <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> same and heale it up againe in a short time.</p>
+            <p>He hath furthermore a plaister to cure all aches, the Sciatica, aposthumes and other paines in a short time, it draweth <gap reason="illegible" resp="#oxf" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> any thorne or splinter.</p>
+            <p>He hath another plaister for the Corns, it taketh them out by the roote in two or three dayes without any paine.</p>
+            <p>He can make haire grow in a short time upon a bauld place.</p>
+            <p>He hath also a singular Antidote, or counter poyson, called Orviatano, very good against all poyson, soveraigne <gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gainst the Plague, the Collick, gripings of the guts, and all manner of surfets.</p>
+            <p>Every one therefore may make provision of these rare medicines, although they have no present use for them, for t<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> will keep good for a long time, so that in time of need you may have both Physick and the Physitian in the house in readin<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>▪</p>
+            <p>Whos<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>er pleaseth to <gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#oxf" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e to his Lodging at the Princes Armes at <hi>Clare-street</hi> end over against the market place, n<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap>
+               <hi>Lincolns</hi> Inne Fields, on the back side of <hi>Drury Lane</hi> shall have good content, and by Gods assistance the case of their sickn<gap reason="illegible" resp="#oxf" extent="1+ letters">
+                  <desc>•…</desc>
+               </gap> or disease.</p>
+            <closer>Soli Deo gloria.</closer>
+            <pb facs="tcp:164543:2"/>
+            <gap reason="duplicate" resp="#oxf" extent="1 page">
+               <desc>〈1 page duplicate〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
